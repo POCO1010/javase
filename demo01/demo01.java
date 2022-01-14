@@ -9,7 +9,6 @@ public class demo01 {
 //        System.out.printf("%6d\twork",12345);
 
         Customer[]customers;
-        System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("hello branch");
         System.out.println("111");
