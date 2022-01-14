@@ -10,6 +10,7 @@ public class demo01 {
 
         Customer[]customers;
         System.out.println("hello git");
+        System.out.println("hello git2");
 
 
     }
